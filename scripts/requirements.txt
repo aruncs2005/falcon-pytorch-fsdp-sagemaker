@@ -1,0 +1,5 @@
+transformers
+accelerate>=0.20.3
+datasets
+evaluate
+tensorboard
